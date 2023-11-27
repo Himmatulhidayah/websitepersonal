@@ -42,7 +42,7 @@ nav ul li {
     transition: cubic-bezier(0.23, 1, 0.320, 1);
 }
 nav ul li a:hover{
-    color: rgb(250, 232, 184);
+    color: antiquewhite;
     font-weight: bold;
     font-style: initial;
 }
@@ -68,11 +68,6 @@ p {
 }
 h3 {
     background-color: rgb(218, 159, 88);
-}
-h1 {
-    background-image: frame_lucu.jpg;
-    background-repeat: no repeat;
-    background-size: cover;
 }
 h3 {
     margin: auto;
